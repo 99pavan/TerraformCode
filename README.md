@@ -1,2 +1,0 @@
-# TerraformCode
-My Personal Code
